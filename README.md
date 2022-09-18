@@ -4,4 +4,4 @@ Geolocation and mapping customers by bank balance
 
 
 
-This report was created using a fictitious dataset made available by Data Science Academy.
+This report was created using Power BI tool with a fictitious dataset made available by Data Science Academy.
